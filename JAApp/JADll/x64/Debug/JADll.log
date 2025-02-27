@@ -1,0 +1,3 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(517,5): warning MSB8004: Katalog Output nie kończy się ukośnikiem. To wystąpienie kompilacji doda ukośnik, ponieważ jest on niezbędny, aby możliwa była poprawna ocena katalogu Output.
+     Trwa tworzenie biblioteki C:\Users\matis\FiltrKwadratowwy\JAApp\JAApp\bin\Debug\net8.0-windows\JADll.lib i obiektu C:\Users\matis\FiltrKwadratowwy\JAApp\JAApp\bin\Debug\net8.0-windows\JADll.exp
+  JADll.vcxproj -> C:\Users\matis\FiltrKwadratowwy\JAApp\JAApp\bin\Debug\net8.0-windows\JADll.dll

@@ -1,0 +1,149 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\FiltrKwadratowwy\\JAApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5924BC33-6B1F-4FD9-A9E3-3F35702109D4}|JADll\\JADll.vcxproj|F:\\FiltrKwadratowwy\\JAApp\\JADll\\MyDll.asm||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{5924BC33-6B1F-4FD9-A9E3-3F35702109D4}|JADll\\JADll.vcxproj|solutionrelative:JADll\\MyDll.asm||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{605859F1-06E2-41A7-B9FF-DFFDB8455674}|JAApp\\JAApp.csproj|f:\\filtrkwadratowwy\\jaapp\\jaapp\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{605859F1-06E2-41A7-B9FF-DFFDB8455674}|JAApp\\JAApp.csproj|solutionrelative:jaapp\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E20D7C75-3A87-4629-8EA0-285B62ACF4DB}|CPPDll\\CPPDll.vcxproj|F:\\FiltrKwadratowwy\\JAApp\\CPPDll\\Algorithm.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E20D7C75-3A87-4629-8EA0-285B62ACF4DB}|CPPDll\\CPPDll.vcxproj|solutionrelative:CPPDll\\Algorithm.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{605859F1-06E2-41A7-B9FF-DFFDB8455674}|JAApp\\JAApp.csproj|f:\\filtrkwadratowwy\\jaapp\\jaapp\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{605859F1-06E2-41A7-B9FF-DFFDB8455674}|JAApp\\JAApp.csproj|solutionrelative:jaapp\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{605859F1-06E2-41A7-B9FF-DFFDB8455674}|JAApp\\JAApp.csproj|f:\\filtrkwadratowwy\\jaapp\\jaapp\\customcontrol1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{605859F1-06E2-41A7-B9FF-DFFDB8455674}|JAApp\\JAApp.csproj|solutionrelative:jaapp\\customcontrol1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5924BC33-6B1F-4FD9-A9E3-3F35702109D4}|JADll\\JADll.vcxproj|F:\\FiltrKwadratowwy\\JAApp\\JADll\\MyDll.def||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{5924BC33-6B1F-4FD9-A9E3-3F35702109D4}|JADll\\JADll.vcxproj|solutionrelative:JADll\\MyDll.def||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E20D7C75-3A87-4629-8EA0-285B62ACF4DB}|CPPDll\\CPPDll.vcxproj|F:\\FiltrKwadratowwy\\JAApp\\CPPDll\\dllmain.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E20D7C75-3A87-4629-8EA0-285B62ACF4DB}|CPPDll\\CPPDll.vcxproj|solutionrelative:CPPDll\\dllmain.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E20D7C75-3A87-4629-8EA0-285B62ACF4DB}|CPPDll\\CPPDll.vcxproj|F:\\FiltrKwadratowwy\\JAApp\\CPPDll\\pch.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E20D7C75-3A87-4629-8EA0-285B62ACF4DB}|CPPDll\\CPPDll.vcxproj|solutionrelative:CPPDll\\pch.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 222,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MyDll.def",
+              "DocumentMoniker": "F:\\FiltrKwadratowwy\\JAApp\\JADll\\MyDll.def",
+              "RelativeDocumentMoniker": "JADll\\MyDll.def",
+              "ToolTip": "F:\\FiltrKwadratowwy\\JAApp\\JADll\\MyDll.def",
+              "RelativeToolTip": "JADll\\MyDll.def",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001913|",
+              "WhenOpened": "2025-01-23T19:11:59.594Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "F:\\FiltrKwadratowwy\\JAApp\\JAApp\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "JAApp\\MainWindow.xaml",
+              "ToolTip": "F:\\FiltrKwadratowwy\\JAApp\\JAApp\\MainWindow.xaml",
+              "RelativeToolTip": "JAApp\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-01-11T15:00:06.084Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "dllmain.cpp",
+              "DocumentMoniker": "F:\\FiltrKwadratowwy\\JAApp\\CPPDll\\dllmain.cpp",
+              "RelativeDocumentMoniker": "CPPDll\\dllmain.cpp",
+              "ToolTip": "F:\\FiltrKwadratowwy\\JAApp\\CPPDll\\dllmain.cpp",
+              "RelativeToolTip": "CPPDll\\dllmain.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-06T17:24:20.959Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "F:\\FiltrKwadratowwy\\JAApp\\JAApp\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "JAApp\\MainWindow.xaml.cs",
+              "ToolTip": "F:\\FiltrKwadratowwy\\JAApp\\JAApp\\MainWindow.xaml.cs",
+              "RelativeToolTip": "JAApp\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAGQAAAAAAAAAAAAAAGIAAABqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T10:51:30.043Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Algorithm.cpp",
+              "DocumentMoniker": "F:\\FiltrKwadratowwy\\JAApp\\CPPDll\\Algorithm.cpp",
+              "RelativeDocumentMoniker": "CPPDll\\Algorithm.cpp",
+              "ToolTip": "F:\\FiltrKwadratowwy\\JAApp\\CPPDll\\Algorithm.cpp",
+              "RelativeToolTip": "CPPDll\\Algorithm.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-29T11:55:20.578Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MyDll.asm",
+              "DocumentMoniker": "F:\\FiltrKwadratowwy\\JAApp\\JADll\\MyDll.asm",
+              "RelativeDocumentMoniker": "JADll\\MyDll.asm",
+              "ToolTip": "F:\\FiltrKwadratowwy\\JAApp\\JADll\\MyDll.asm",
+              "RelativeToolTip": "JADll\\MyDll.asm",
+              "ViewState": "AgIAAKoAAAAAAAAAAAAAANAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-10-28T10:54:02.67Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CustomControl1.cs",
+              "DocumentMoniker": "F:\\FiltrKwadratowwy\\JAApp\\JAApp\\CustomControl1.cs",
+              "RelativeDocumentMoniker": "JAApp\\CustomControl1.cs",
+              "ToolTip": "F:\\FiltrKwadratowwy\\JAApp\\JAApp\\CustomControl1.cs",
+              "RelativeToolTip": "JAApp\\CustomControl1.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAAB8AAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T11:27:53.605Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "pch.cpp",
+              "DocumentMoniker": "F:\\FiltrKwadratowwy\\JAApp\\CPPDll\\pch.cpp",
+              "RelativeDocumentMoniker": "CPPDll\\pch.cpp",
+              "ToolTip": "F:\\FiltrKwadratowwy\\JAApp\\CPPDll\\pch.cpp",
+              "RelativeToolTip": "CPPDll\\pch.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-29T21:55:03.922Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

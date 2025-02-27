@@ -1,0 +1,52 @@
+﻿<Window x:Class="JAApp.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Image Processing App" Height="768" Width="1024"
+        Background="#e8cbcb"
+        WindowStartupLocation="CenterScreen">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+        <StackPanel Grid.Row="0" Grid.ColumnSpan="2" Orientation="Horizontal" HorizontalAlignment="Center" Margin="10">
+            <Button Content="ASM" Width="100" Height="50" Margin="10" Click="asmButton" Background="#b66c6d"/>
+            <Button Content="C++" Width="100" Height="50" Margin="10" Click="cButton" Background="#b66c6d"/>
+            <Button Content="Wybierz plik" Width="150" Height="50" Margin="10" Click="ChooseFileButton_Click" Background="#b66c6d"/>
+            <Button Content="Zapisz" Width="100" Height="50" Margin="10" Click="SaveFileButton_Click" Background="#b66c6d"/>
+            <StackPanel Orientation="Horizontal" Margin="20,0,0,0" Background="#b66c6d">
+                <Label Content="Wątki:" VerticalAlignment="Center" Margin="0,0,10,0"/>
+                <ComboBox Name="ThreadsComboBox" Width="100" SelectedIndex="0" />
+            </StackPanel>
+        </StackPanel>
+
+        <Grid Grid.Row="1" Grid.Column="0" Margin="10">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="3*"/>
+                <RowDefinition Height="1*"/>
+            </Grid.RowDefinitions>
+
+            <Border Grid.Row="0" BorderBrush="Black" BorderThickness="1" HorizontalAlignment="Stretch" VerticalAlignment="Stretch">
+                <Image Name="DisplayImage1" Stretch="Uniform" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+            </Border>
+            <Canvas Grid.Row="1" Name="HistogramCanvas1" Height="100" Background="#fcefef" Margin="0,10,0,0"/>
+        </Grid>
+
+        <Grid Grid.Row="1" Grid.Column="1" Margin="10">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="3*"/>
+                <RowDefinition Height="1*"/>
+
+            </Grid.RowDefinitions>
+
+            <Border Grid.Row="0" BorderBrush="Black" BorderThickness="1" HorizontalAlignment="Stretch" VerticalAlignment="Stretch">
+                <Image Name="DisplayImage2" Stretch="Uniform" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+            </Border>
+            <Canvas Grid.Row="1" Name="HistogramCanvas2" Height="100" Background="#fcefef" Margin="0,10,0,0"/>
+        </Grid>
+    </Grid>
+</Window>
